@@ -1,0 +1,32 @@
+[
+{
+  "authorID":1234,
+  "authorFirstName":"J.K.",
+  "authorLastName":"Rowling"		
+},
+{
+  "authorID":1235,
+  "authorFirstName":"J.R.R.",
+  "authorLastName":"Tolkien"		
+},
+{
+  "authorID":1236,
+  "authorFirstName":"Roald",
+  "authorLastName":"Dahl"		
+},
+{
+  "authorID":1237,
+  "authorFirstName":"George R. R.",
+  "authorLastName":"Martin"		
+},
+{
+  "authorID":1238,
+  "authorFirstName":"Stephen",
+  "authorLastName":"King"		
+},
+{
+  "authorID":1239,
+  "authorFirstName":"James",
+  "authorLastName":"Patterson"		
+},
+]
