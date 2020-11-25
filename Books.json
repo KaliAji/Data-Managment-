@@ -1,0 +1,49 @@
+﻿[{
+		"bookID": 1,
+		"bookTitle": "Harry Potter and the Chamber of Secrets",
+		"bookGenre": ["Fantasy", "Action"],
+		"numOfCopies": 2,
+		"available": "Yes",
+		"authorID": 1234
+	},
+	{
+		"bookID": 2,
+		"bookTitle": "The Hobbit",
+		"bookGenre": ["Fantasy", "Action"],
+		"numOfCopies": 1,
+		"available": "No",
+		"authorID": 1235
+	},
+	{
+		"bookID": "3",
+		"bookTitle": "Matilda",
+		"bookGenre": ["Childrens literature", "Fantasy"],
+		"numOfCopies": 3,
+		"available": "Yes",
+		"authorID": 1236
+	},
+	{
+		"bookID": 4,
+		"bookTitle": "A Game of Thrones",
+		"bookGenre": ["Fantasy", "Action"],
+		"numOfCopies": 4,
+		"available": "Yes",
+		"authorID": 1237
+	},
+	{
+		"bookID": 5,
+		"bookTitle": "It",
+		"bookGenre": ["Horror"],
+		"numOfCopies": 1,
+		"available": "No",
+		"authorID": 1238
+	},
+	{
+		"bookID": 6,
+		"bookTitle": "Cross",
+		"bookGenre": ["Mystery"],
+		"numOfCopies": 2,
+		"available": "Yes",
+		"authorID": 1239
+	}
+]
